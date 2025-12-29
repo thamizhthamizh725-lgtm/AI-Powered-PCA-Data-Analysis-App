@@ -33,3 +33,4 @@ The app helps in understanding **dimensionality reduction** and data patterns in
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/AI-PCA-Streamlit-App.git
+
